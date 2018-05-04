@@ -1,0 +1,3 @@
+First=input("Enter the First name:")
+Last =input("Enter the Last name:")
+print (First[::-1],Last[::-1])
