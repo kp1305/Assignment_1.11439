@@ -1,0 +1,7 @@
+Value =["WE", 'THE PEOPLE OF INDIA', 'having solemnly resolved to constitute India into a'
+'SOVEREIGN', 'SOCIALIST SECULAR DEMOCRATIC REPUBLIC', 'and to secure to all its citizens']
+value1 = Value[:2]
+print(value1)
+print(Value[2:3])
+print(Value[3:4])
+print(Value[4:5])
