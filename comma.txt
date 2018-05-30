@@ -1,0 +1,3 @@
+Num = input("Enter the number separated by comma:")
+Num = Num.split(',')
+print(Num)
